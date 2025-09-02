@@ -1,0 +1,5 @@
+{
+  "name": "Vroom - Two Wheeler Rentals",
+  "description": "A modern web application for a two-wheeler rental business, allowing users to browse bikes, view rental plans, and get in touch. Features pages for Home, About Us, Plans, Contact, and Testimonials.",
+  "requestFramePermissions": []
+}
